@@ -20,11 +20,18 @@ The number of classifier models depends on the classification technique we are a
 
 
 ## Algorithm
-1.define dataset with centers=3.
-2.summarize dataset shape.
-3.ummarize observations by class label.
-4.summarize first few examples.
+1.define dataset with centers=3. <br>
+2.summarize dataset shape.<br>
+3.ummarize observations by class label.<br>
+4.summarize first few examples.<br>
 5.plot the dataset and color the by class label
+```
+
+
+
+
+```
+
 
 ## Program:
 ```
